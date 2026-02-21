@@ -603,7 +603,7 @@ export default function App() {
                       <span className="text-text-main">Compiling architect_profile.exe...</span>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 md:gap-4">
-                      {['UI/UX Design', 'Web Dev'].map((skill) => (
+                      {['Loser', 'Web Dev'].map((skill) => (
                         <div key={skill} className="flex items-center space-x-3 p-3 bg-darkest/40 border border-border rounded-custom hover:border-brand/40 transition-colors group/item">
                           <span className="w-1 h-1 bg-brand shadow-[0_0_5px_#1978e5]"></span>
                           <span className="text-[10px] uppercase tracking-[0.15em] text-text-muted group-hover/item:text-text-main transition-colors">{skill}</span>
@@ -618,7 +618,7 @@ export default function App() {
                       <span className="text-text-main">Scanning ancillary_modules...</span>
                     </div>
                     <div className="flex flex-wrap gap-3 md:gap-4">
-                      {['#Football', '#Cycling', '#CSGO', '#FC', '#Travel'].map((tag) => (
+                      {['#Football', '#Cycling', '#CSGO', '#FC', '#Travel', '#Spicy hot pot'].map((tag) => (
                         <div key={tag} className="px-3 py-1 bg-darkest border border-border rounded-full text-[10px] text-text-muted uppercase transition-colors duration-300">
                           {tag}
                         </div>
