@@ -632,7 +632,7 @@ export default function App() {
                       <span className="text-text-main">Listing domain_assets...</span>
                     </div>
                     <div className="flex flex-wrap gap-x-6 gap-y-3">
-                      {['rz.sb', 'rzv.cc', 'nn1.cn', 'asstai.cn', 'jots.cn', 'zx.ci', 'zao.ge'].map((domain) => (
+                      {['rzv.cc', 'nn1.cn', 'o8ai.com', 'uwzx.com'].map((domain) => (
                         <a 
                           key={domain} 
                           href={`https://${domain}`} 
