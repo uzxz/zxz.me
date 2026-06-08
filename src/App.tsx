@@ -672,6 +672,8 @@ export default function App() {
             <span>MEM: 512MB</span>
           </div>
           <div>
+            <a href="https://beian.miit.gov.cn/" rel="noreferrer" target="_blank">滇ICP备2022000758号-5</a>
+            <a href="https://beian.mps.gov.cn/#/query/webSearch?code=53012602000178" rel="noreferrer" target="_blank">滇公网安备53012602000178号</a>
             LO: 127.0.0.1 — <span className="text-brand/80">ESTABLISHED</span>
           </div>
         </footer>
